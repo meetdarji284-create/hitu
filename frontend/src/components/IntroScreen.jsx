@@ -21,7 +21,7 @@ export default function IntroScreen({ onStart }) {
 
         <div className="glass rounded-3xl p-6 mb-8 anim-fade-up" style={{ animationDelay: "0.9s" }}>
           <p className="handwritten text-2xl text-white/90 leading-snug">
-            "A little corner of the internet that exists only for you, pagli.
+            "A little corner of the internet that exists only for you, cutuuu.
             Whenever the world feels too loud — come here. I'll be right here. ❤️"
           </p>
           <p className="text-xs text-white/50 mt-3 tracking-widest uppercase">— your Batak</p>
