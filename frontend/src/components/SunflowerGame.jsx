@@ -105,7 +105,7 @@ export default function SunflowerGame({ onBack }) {
                 <>
                   <p className="handwritten text-4xl text-[var(--sunflower)]">Time's up!</p>
                   <p className="text-white/80 mt-2">You scored <b>{score}</b></p>
-                  <p className="handwritten text-2xl text-white/70 my-2">"that was so cute, do it again pagli 🥺"</p>
+                  <p className="handwritten text-2xl text-white/70 my-2">"that was so cute, do it again cutuu 🥺"</p>
                   <button onClick={start} className="sticker-btn mt-3" data-testid="game-restart">Play again</button>
                 </>
               ) : (
