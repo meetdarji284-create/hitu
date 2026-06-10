@@ -37,7 +37,7 @@ export const ROMANTIC_MESSAGES = [
   "Your laugh is my favorite song, even more than Darkhaast 🎵",
   "Joe Keery is shaking — my girl is prettier 😌",
   "RCB might lose, but I'll never lose you ❤️",
-  "You are the prettiest thing I've ever seen, pagli 🥺",
+  "You are the prettiest thing I've ever seen, cutiee pieee 🥺",
   "Even on your worst day, you're still my best moment 🌙",
   "Mini Cooper one day, princess. Promise 🚗",
   "Coffee + you = my entire personality ☕",
@@ -51,7 +51,7 @@ export const ROMANTIC_MESSAGES = [
 export const SURPRISES = [
   "You deserve the world princess ❤️",
   "Drink water Hitu 🌻",
-  "Take rest pagli ❤️",
+  "Take rest bacchaa ❤️",
   "KitKat break time 🍫",
   "Have you smiled today? Do it now, jaan 😊",
   "Stretch a little, beautiful 🧘‍♀️",
