@@ -84,7 +84,7 @@ export const CRAVINGS = [
 export const OPEN_WHEN = {
   sad: {
     title: "Open when sad 🌧️",
-    text: "Hey pagli. I know today feels heavy. But listen — you are not a problem. You are a person. A whole, soft, beautiful person who is just tired. It's okay to not be okay. Cry if you have to. I'll wait at the end of the storm with hot coffee and the dumbest joke you've ever heard. You're going to be okay. Not because you have to be — but because I refuse to live in a world where my Hitu stays sad. I love you. Always. ❤️",
+    text: "Hey hituu. I know today feels heavy. But listen — you are not a problem. You are a person. A whole, soft, beautiful person who is just tired. It's okay to not be okay. Cry if you have to. I'll wait at the end of the storm with hot coffee and the dumbest joke you've ever heard. You're going to be okay. Not because you have to be — but because I refuse to live in a world where my Hitu stays sad. I love you. Always. ❤️",
   },
   angry: {
     title: "Open when angry 🔥",
