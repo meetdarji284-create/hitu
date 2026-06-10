@@ -44,7 +44,7 @@ export default function BubblePop({ onBack }) {
       });
     }, 1000);
     return () => { clearInterval(spawnRef.current); clearInterval(tickRef.current); };
-  }, [running]);
+  }, [running, time]);
 
   useEffect(() => {
     if (!running && score > best) {
