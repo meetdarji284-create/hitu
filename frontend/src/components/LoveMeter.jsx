@@ -2,7 +2,7 @@ import { useState } from "react";
 import SectionShell from "./SectionShell";
 
 const MESSAGES = [
-  { min: 0, text: "press the button, pagli 💔" },
+  { min: 0, text: "press the button, cutuu 💔" },
   { min: 1, text: "barely registered — try harder 🥺" },
   { min: 25, text: "okay we're getting somewhere ❤️" },
   { min: 50, text: "this is a healthy amount of love 💛" },
