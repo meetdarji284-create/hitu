@@ -19,7 +19,7 @@ export default function HituQuiz({ onBack }) {
             {perfect
               ? "You know yourself, queen ❤️ (and I know you too, just saying 😏)"
               : score >= 7
-              ? "Almost perfect, pagli 🥺"
+              ? "Almost perfect, cutuu 🥺"
               : "It's okay — I'll quiz you on yourself anytime 💗"}
           </p>
           <button
